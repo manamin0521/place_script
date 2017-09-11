@@ -7,13 +7,13 @@ API_KEY = 'AIzaSyDVUuLJdMwQA_WPJRAJM2ngyKrUK4r_ROw'
 # API_KEY = 'AIzaSyDRK0rZvGzZ2lvu-jW3A3TAExcuEnE5wiU'
 # API_KEY = 'AIzaSyB379FMFKJO5sx58uIVkuAfl6SE9ie08gA'
 
-lat = '3.1528496'
-lng = '101.7015546'
-rad = '500'
+lat = '1.5187515'
+lng = '103.569053'
+rad = '50000'
 
 # types = 'train_station'
-# types = 'university'
-types = 'doctor'
+types = 'university'
+# types = 'doctor'
 # types = 'school'
 # types = 'shopping_mall'
 # types = 'hospital'
@@ -74,7 +74,9 @@ results.each do |result|
       list.include?(str)
     end
 
-  File.open('./place.json', 'a') do |file|
-      file.puts JSON.pretty_generate(answer)
+  if place['country'] == "Malaysia" then
+    File.open('./place.json', 'a') do |file|
+        file.puts JSON.pretty_generate(answer)
+    end
   end
 end
