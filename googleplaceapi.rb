@@ -12,7 +12,8 @@ lng = '101.7015546'
 rad = '500'
 
 # types = 'train_station'
-types = 'university'
+# types = 'university'
+types = 'doctor'
 # types = 'school'
 # types = 'shopping_mall'
 # types = 'hospital'
@@ -46,7 +47,7 @@ results.each do |result|
   place_detail = detail['result']
   location = place_detail['geometry']['location']
   address = place_detail['address_components']
-  check_items = ["street_number", "route", "locality", "administrative_area_level_2", "administrative_area_level_1"]
+  check_items = ["street_number", "route", "locality", "administrative_area_level_2", "administrative_area_level_1", "country"]
   place = {}
 
   address.each do |element|
@@ -63,10 +64,15 @@ results.each do |result|
     street_number:place['street_number'],
     route:place['route'],
     locality:place['locality'],
-    area_level_2:place['administrative_area_level_2'],
     area_level_1:place['administrative_area_level_1'],
+    country:place['country'],
     types: place_detail['types']
   }
+
+    list = ['establishment', 'point_of_interest']
+    place_detail['types'].delete_if do |str|
+      list.include?(str)
+    end
 
   File.open('./place.json', 'a') do |file|
       file.puts JSON.pretty_generate(answer)
