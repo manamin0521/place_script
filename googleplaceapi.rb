@@ -2,24 +2,38 @@ require 'net/https'
 require 'uri'
 require 'json'
 
+#エラーが出るようになったらAPIキーをcommand+/を押して切り替えてください
 # API_KEY = 'AIzaSyDEhtQbIdDR_5KQjMBgIPSoEb2IELXYTG0'
 API_KEY = 'AIzaSyDVUuLJdMwQA_WPJRAJM2ngyKrUK4r_ROw'
 # API_KEY = 'AIzaSyDRK0rZvGzZ2lvu-jW3A3TAExcuEnE5wiU'
 # API_KEY = 'AIzaSyB379FMFKJO5sx58uIVkuAfl6SE9ie08gA'
 
-lat = '1.5187515'
-lng = '103.569053'
-rad = '50000'
 
+lat = '3.152917' #中心座標の緯度
+lng = '101.7038288' #中心座標の軽度
+rad = '50000' #中心座標の半径(m)
+
+
+#command+/でカテゴリーを切り替えてください（消す時もアクティブにする時も同様）
 # types = 'train_station'
-types = 'university'
+# types = 'university'
 # types = 'doctor'
+# types = 'bank'
+# types = 'store'
+# types = 'atm'
 # types = 'school'
 # types = 'shopping_mall'
 # types = 'hospital'
 # types = 'bus_station'
 # types = 'subway_station'
-
+# types = 'restaurant'
+# types = 'food'
+# types = 'mosque'
+# types = 'church'
+# types = 'hindu_temple'
+# types = 'place_of_worship'
+# types = 'gas_station'
+types = 'police'
 
 language = 'en'
 
