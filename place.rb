@@ -2,40 +2,39 @@ require 'net/https'
 require 'uri'
 require 'json'
 
-#エラーが出るようになったらAPIキーをcommand+/を押して切り替えてください
-# API_KEY = 'AIzaSyDEhtQbIdDR_5KQjMBgIPSoEb2IELXYTG0'
-API_KEY = 'AIzaSyDVUuLJdMwQA_WPJRAJM2ngyKrUK4r_ROw'
+#クエリが上限を超えた時用に複数用意
+API_KEY = 'AIzaSyDEhtQbIdDR_5KQjMBgIPSoEb2IELXYTG0'
+# API_KEY = 'AIzaSyDVUuLJdMwQA_WPJRAJM2ngyKrUK4r_ROw'
 # API_KEY = 'AIzaSyDRK0rZvGzZ2lvu-jW3A3TAExcuEnE5wiU'
 # API_KEY = 'AIzaSyB379FMFKJO5sx58uIVkuAfl6SE9ie08gA'
 
 
 lat = '3.152917' #中心座標の緯度
-lng = '101.7038288' #中心座標の軽度
+lng = '101.7038288' #中心座標の経度
 rad = '50000' #中心座標の半径(m)
 
 
-#command+/でカテゴリーを切り替えてください（消す時もアクティブにする時も同様）
-# types = 'train_station'
-# types = 'university'
-# types = 'doctor'
-# types = 'bank'
-# types = 'store'
-# types = 'atm'
-# types = 'school'
+#カテゴリー切り替え
+types = 'convenience_store'
+# types = 'grocery_or_supermarket'
 # types = 'shopping_mall'
-# types = 'hospital'
-# types = 'bus_station'
+# types = 'train_station'
+# types = 'light_rail_station'
 # types = 'subway_station'
-# types = 'restaurant'
-# types = 'food'
+# types = 'university'
+# types = 'bank'
+# types = 'hospital'
+# types = 'doctor'
 # types = 'mosque'
 # types = 'church'
 # types = 'hindu_temple'
-# types = 'place_of_worship'
+# types = 'police'
 # types = 'gas_station'
-types = 'police'
 
 language = 'en'
+
+#前に出力した内容を削除
+File.open('./place.json','w'){|file| file = nil}
 
 uri = URI.parse "https://maps.googleapis.com/maps/api/place/radarsearch/json?location=#{lat},#{lng}&radius=#{rad}&types=#{types}&language=en&key=#{API_KEY}"
 
@@ -74,20 +73,23 @@ results.each do |result|
     name:place_detail['name'],
     lat: location['lat'],
     lng:location['lng'],
-    address:place_detail['formatted_address'],
+    formatted_address:place_detail['formatted_address'],
     street_number:place['street_number'],
     route:place['route'],
     locality:place['locality'],
-    area_level_1:place['administrative_area_level_1'],
+    administrative_area_level_2:place['administrative_area_level_2'],
+    administrative_area_level_1:place['administrative_area_level_1'],
     country:place['country'],
     types: place_detail['types']
   }
+  
+  #不要なtypesを取り除く
+  list = ['establishment', 'point_of_interest']
+  place_detail['types'].delete_if do |str|
+    list.include?(str)
+  end
 
-    list = ['establishment', 'point_of_interest']
-    place_detail['types'].delete_if do |str|
-      list.include?(str)
-    end
-
+  #シンガポールを除外
   if place['country'] == "Malaysia" then
     File.open('./place.json', 'a') do |file|
         file.puts JSON.pretty_generate(answer)
