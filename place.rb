@@ -3,15 +3,15 @@ require 'uri'
 require 'json'
 
 #クエリが上限を超えた時用に複数用意
-API_KEY = 'AIzaSyDEhtQbIdDR_5KQjMBgIPSoEb2IELXYTG0'
-# API_KEY = 'AIzaSyDVUuLJdMwQA_WPJRAJM2ngyKrUK4r_ROw'
+# API_KEY = 'AIzaSyDEhtQbIdDR_5KQjMBgIPSoEb2IELXYTG0'
+API_KEY = 'AIzaSyDVUuLJdMwQA_WPJRAJM2ngyKrUK4r_ROw'
 # API_KEY = 'AIzaSyDRK0rZvGzZ2lvu-jW3A3TAExcuEnE5wiU'
 # API_KEY = 'AIzaSyB379FMFKJO5sx58uIVkuAfl6SE9ie08gA'
 
 
 lat = '3.152917' #中心座標の緯度
 lng = '101.7038288' #中心座標の経度
-rad = '50000' #中心座標の半径(m)
+rad = '5000' #中心座標の半径(m)
 
 
 #カテゴリー切り替え
@@ -31,10 +31,7 @@ types = 'convenience_store'
 # types = 'police'
 # types = 'gas_station'
 
-language = 'en'
-
-#前に出力した内容を削除
-File.open('./place.json','w'){|file| file = nil}
+File.open('./place.json','w'){|file| file = nil} #前に出力した内容を削除
 
 uri = URI.parse "https://maps.googleapis.com/maps/api/place/radarsearch/json?location=#{lat},#{lng}&radius=#{rad}&types=#{types}&language=en&key=#{API_KEY}"
 
@@ -82,17 +79,26 @@ results.each do |result|
     country:place['country'],
     types: place_detail['types']
   }
-  
+
   #不要なtypesを取り除く
   list = ['establishment', 'point_of_interest']
   place_detail['types'].delete_if do |str|
     list.include?(str)
   end
 
-  #シンガポールを除外
-  if place['country'] == "Malaysia" then
-    File.open('./place.json', 'a') do |file|
+  #不要なデータを除外
+  a = place_detail['name'].match(/\satm|atm\s/i)
+  b = (['grocery_or_supermarket', 'convenience_store'] - place_detail['types']).empty?
+  c = place_detail['name'].match(/7-11|7\sEleven|7eleven|7-Eleven/i)
+  d = place_detail['types'] == 'bank'
+  e = place_detail['types'] == 'shopping_mall'
+
+
+  if place['country'] == "Malaysia"
+    unless (a && !d) || b || (c && !e)
+      File.open('./place.json', 'a') do |file|
         file.puts JSON.pretty_generate(answer)
+      end
     end
   end
 end
