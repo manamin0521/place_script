@@ -1,0 +1,2901 @@
+{
+  "name": "Central Market Kuala Lumpur",
+  "lat": 3.1453123,
+  "lng": 101.6953696,
+  "formatted_address": "Jalan Hang Kasturi, City Centre, 50050 Kuala Lumpur, Wilayah Persekutuan, Malaysia",
+  "street_number": null,
+  "route": "Jalan Hang Kasturi",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall",
+    "food",
+    "store"
+  ]
+}
+{
+  "name": "Sunway Putra Hotel",
+  "lat": 3.166639,
+  "lng": 101.692848,
+  "formatted_address": "100, Jalan Putra, Chow Kit, 50350 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "100",
+  "route": "Jalan Putra",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall",
+    "lodging"
+  ]
+}
+{
+  "name": "Suria KLCC",
+  "lat": 3.1574992,
+  "lng": 101.7121721,
+  "formatted_address": "241, Kuala Lumpur City Centre, City Centre, 50088 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": null,
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Lot 10",
+  "lat": 3.1464841,
+  "lng": 101.7119149,
+  "formatted_address": "50, Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "50",
+  "route": "Jalan Bukit Bintang",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "KL Empire Suite @ Times Square",
+  "lat": 3.141769,
+  "lng": 101.710503,
+  "formatted_address": "Berjaya Times Square Kuala Lumpur, Jalan Imbi, Imbi, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": null,
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Federal Territory of Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall",
+    "real_estate_agency",
+    "lodging"
+  ]
+}
+{
+  "name": "Fahrenheit88",
+  "lat": 3.1470117,
+  "lng": 101.7129107,
+  "formatted_address": "179, Changkat Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "179",
+  "route": "Changkat Bukit Bintang",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Aeon Taman Maluri",
+  "lat": 3.12601,
+  "lng": 101.7284,
+  "formatted_address": "Jusco Taman Maluri Shopping Centre, 55100, Cheras, Jalan Jejaka, Maluri, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Jejaka",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Federal Territory of Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Plaza Low Yat",
+  "lat": 3.14403,
+  "lng": 101.7099,
+  "formatted_address": "7, Jalan Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "7",
+  "route": "Jalan Bintang",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall",
+    "electronics_store",
+    "home_goods_store",
+    "store"
+  ]
+}
+{
+  "name": "Kuala Lumpur Craft Complex",
+  "lat": 3.1493745,
+  "lng": 101.7190182,
+  "formatted_address": "5, Jalan Conlay, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "5",
+  "route": "Jalan Conlay",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Plaza Low Yat",
+  "lat": 3.14431,
+  "lng": 101.709558,
+  "formatted_address": "7, Jalan Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "7",
+  "route": "Jalan Bintang",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Bangsar Village II",
+  "lat": 3.1307,
+  "lng": 101.67136,
+  "formatted_address": "Bangsar Village, 1, Jalan Telawi 3, Bukit Bangsar, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "1",
+  "route": "Jalan Telawi 3",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "The Weld",
+  "lat": 3.151039999999999,
+  "lng": 101.7068332,
+  "formatted_address": "76, Jalan Raja Chulan, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "76",
+  "route": "Jalan Raja Chulan",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Cotton On",
+  "lat": 3.1596027,
+  "lng": 101.7140585,
+  "formatted_address": "Avenue K, 156, Jalan Ampang, Kampung Baru, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "156",
+  "route": "Jalan Ampang",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall",
+    "shoe_store",
+    "clothing_store",
+    "store"
+  ]
+}
+{
+  "name": "Intermark Mall",
+  "lat": 3.161389599999999,
+  "lng": 101.7201644,
+  "formatted_address": "Intermark Mall, The Intermark, 348, Jalan Tun Razak, Kampung Datuk Keramat, 50400 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+  "street_number": "348",
+  "route": "Jalan Tun Razak",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Federal Territory of Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall",
+    "general_contractor"
+  ]
+}
+{
+  "name": "Brabantia Bangsar Shopping Centre",
+  "lat": 3.143202,
+  "lng": 101.667435,
+  "formatted_address": "Bangsar Shopping Centre, 285, Jalan Maarof, Bukit Bandaraya, 59200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "285",
+  "route": "Jalan Maarof",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Mydin",
+  "lat": 3.1527833,
+  "lng": 101.6973983,
+  "formatted_address": "Wisma Mydin, 95, Jalan Masjid India, City Centre, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "95",
+  "route": "Jalan Masjid India",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Bangsar Village",
+  "lat": 3.129709999999999,
+  "lng": 101.670756,
+  "formatted_address": "1, Jalan Telawi 1, Bangsar Baru, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Telawi 1",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Pertama Complex",
+  "lat": 3.157624,
+  "lng": 101.695199,
+  "formatted_address": "Jalan Tuanku Abdul Rahman, Chow Kit, 50350 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Tuanku Abdul Rahman",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Phototechnic Pudu Plaza",
+  "lat": 3.137534,
+  "lng": 101.713514,
+  "formatted_address": "Jalan Pudu, Pudu, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Pudu",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall",
+    "electronics_store",
+    "home_goods_store",
+    "store"
+  ]
+}
+{
+  "name": "Ampang Park Management Corporation",
+  "lat": 3.160836,
+  "lng": 101.71936,
+  "formatted_address": "Ampang Park, 354, Jalan Ampang, Hampshire Park, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "354",
+  "route": "Jalan Ampang",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "parking",
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Publika Shopping Gallery",
+  "lat": 3.1704279,
+  "lng": 101.666192,
+  "formatted_address": "1, Jalan Dutamas 1, Solaris Dutamas, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "1",
+  "route": "Jalan Dutamas 1",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "ONE METRO PUDU",
+  "lat": 3.1299424,
+  "lng": 101.7137596,
+  "formatted_address": "42a, Jalan Metro Pudu, Fraser Business Park, 55200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "42a",
+  "route": "Jalan Metro Pudu",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Parkson Maju Junction Mall",
+  "lat": 3.159423899999999,
+  "lng": 101.6962659,
+  "formatted_address": "Maju WP Chow Kit 50250 Kuala Lumpur, Jalan Sultan Ismail, Chow Kit, 50250 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Sultan Ismail",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Federal Territory of Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "crazybuy.my",
+  "lat": 3.119782899999999,
+  "lng": 101.6766773,
+  "formatted_address": "The Gardens North Tower, Mid Valley City, 59200 Mid Valley City,Lingkaran Syed Putra, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": null,
+  "locality": "Mid Valley City,Lingkaran Syed Putra",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Sungei Wang Plaza",
+  "lat": 3.1449311,
+  "lng": 101.7113141,
+  "formatted_address": "Jalan Sultan Ismail, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Sultan Ismail",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "NU Sentral",
+  "lat": 3.13338,
+  "lng": 101.6868521,
+  "formatted_address": "201, Jalan Tun Sambanthan, Brickfields, 50470 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "201",
+  "route": "Jalan Tun Sambanthan",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Great Eastern Mall",
+  "lat": 3.160072500000001,
+  "lng": 101.7369013,
+  "formatted_address": "303, Jalan Ampang, Desa Pahlawan, 55000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "303",
+  "route": "Jalan Ampang",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Haniffa Sdn.",
+  "lat": 3.1540001,
+  "lng": 101.69732,
+  "formatted_address": "Wisma Haniffa No. 149, Jalan Masjid India, 50100, Kuala Lumpur, Wilayah Persekutuan, Kuala Lumpur City Centre, 50100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": null,
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Federal Territory of Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Campbell Complex",
+  "lat": 3.156821,
+  "lng": 101.6967719,
+  "formatted_address": "98, Jalan Dang Wangi, City Centre, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "98",
+  "route": "Jalan Dang Wangi",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall",
+    "lodging"
+  ]
+}
+{
+  "name": "Mydin",
+  "lat": 3.146635,
+  "lng": 101.6985629,
+  "formatted_address": "Jalan Silang, City Centre, 50050 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Silang",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "NewSound Hearing Pavilion Kuala Lumpur Lot B1.01.04",
+  "lat": 3.148868,
+  "lng": 101.713766,
+  "formatted_address": "168, Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "168",
+  "route": "Jalan Bukit Bintang",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall",
+    "doctor",
+    "health",
+    "store"
+  ]
+}
+{
+  "name": "Starhill Gallery",
+  "lat": 3.147773399999999,
+  "lng": 101.713864,
+  "formatted_address": "181, Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "181",
+  "route": "Jalan Bukit Bintang",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall",
+    "store"
+  ]
+}
+{
+  "name": "Souk Al-Tour, Maju Junction Mall",
+  "lat": 3.1550165,
+  "lng": 101.7061732,
+  "formatted_address": "Level 2, 1001 Jalan Sultan Ismail, Kuala Lumpur, 50250, Kuala Lumpur, WP Kuala Lumpur, Kuala Lumpur, 50250 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": null,
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Federal Territory of Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "AEON Co. (M) Bhd.",
+  "lat": 3.125528,
+  "lng": 101.727662,
+  "formatted_address": "3rd Floor, AEON Taman Maluri Shopping Centre,, Jalan Jejaka, Taman Maluri, Maluri, 55100 Cheras 9 Miles, Federal Territory of Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": null,
+  "locality": "Cheras 9 Miles",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Federal Territory of Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall",
+    "grocery_or_supermarket",
+    "food",
+    "store"
+  ]
+}
+{
+  "name": "Menara Uncang Emas",
+  "lat": 3.1233622,
+  "lng": 101.7203539,
+  "formatted_address": "85, Jalan Loke Yew, Taman Miharja, 55200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "85",
+  "route": "Jalan Loke Yew",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall",
+    "premise"
+  ]
+}
+{
+  "name": "AntaraDuit Agensi Sdn.bhd.",
+  "lat": 3.1608058,
+  "lng": 101.7190862,
+  "formatted_address": "Ampang Park, 354, Jalan Ampang, Hampshire Park, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "354",
+  "route": "Jalan Ampang",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall",
+    "finance"
+  ]
+}
+{
+  "name": "Saraya Zahret Kuala Lumpur",
+  "lat": 3.1575354,
+  "lng": 101.696422,
+  "formatted_address": "232, Jalan Tuanku Abdul Rahman, Chow Kit, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "232",
+  "route": "Jalan Tuanku Abdul Rahman",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall",
+    "clothing_store",
+    "store"
+  ]
+}
+{
+  "name": "Haagen Dazs",
+  "lat": 3.157266699999999,
+  "lng": 101.7111954,
+  "formatted_address": "Suria Klcc, Suria KLCC, Jalan Ampang, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Ampang",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall",
+    "food",
+    "store"
+  ]
+}
+{
+  "name": "KL Citywalk",
+  "lat": 3.1553477,
+  "lng": 101.7090882,
+  "formatted_address": "Jalan P Ramlee, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan P Ramlee",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Legacy Universal M Sdn Bhd",
+  "lat": 3.1538339,
+  "lng": 101.696858,
+  "formatted_address": "Lot 129, Roshni Bazar, Jalan Tuanku Abdul Rahman, Kuala Lumpur, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": null,
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall",
+    "clothing_store",
+    "store"
+  ]
+}
+{
+  "name": "Cititrend Premier Sdn. Bhd",
+  "lat": 3.1527682,
+  "lng": 101.6967259,
+  "formatted_address": "Jalan Bunus, City Centre, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Bunus",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Songket Republik Roshni Bazar",
+  "lat": 3.153680899999999,
+  "lng": 101.6966015,
+  "formatted_address": "Roshni Bazaar, 123,, 13, Jalan Tuanku Abdul Rahman, Kuala Lumpur City Centre, 50100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+  "street_number": "13",
+  "route": "Jalan Tuanku Abdul Rahman",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Federal Territory of Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Allannie Fashion & Design",
+  "lat": 3.1543158,
+  "lng": 101.6966007,
+  "formatted_address": "No., 149, Jalan Tuanku Abdul Rahman, City Centre, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "149",
+  "route": "Jalan Tuanku Abdul Rahman",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "AEON Quill City",
+  "lat": 3.160089,
+  "lng": 101.700765,
+  "formatted_address": "129, Jalan Sultan Ismail, Chow Kit, 50250 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "129",
+  "route": "Jalan Sultan Ismail",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "NEON IG Mall",
+  "lat": 3.1615158,
+  "lng": 101.7025735,
+  "formatted_address": "Jalan Raja Abdullah, Kampung Baru, 50300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Raja Abdullah",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Memorable Travel & Tours رحلات لاتنسى للسياحة والسفر",
+  "lat": 3.1463723,
+  "lng": 101.7100528,
+  "formatted_address": "Bukit Bintang, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": null,
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Federal Territory of Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "SOGO KL",
+  "lat": 3.1562573,
+  "lng": 101.6953654,
+  "formatted_address": "190, Jalan Tuanku Abdul Rahman, City Centre, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "190",
+  "route": "Jalan Tuanku Abdul Rahman",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall",
+    "department_store",
+    "store"
+  ]
+}
+{
+  "name": "Royal Selangor Isetan KLCC",
+  "lat": 3.157217,
+  "lng": 101.711822,
+  "formatted_address": "Level 2 Isetan Mall, Suria, Kuala Lumpur City Centre, 50088 Ampang Jaya, Selangor, Malaysia",
+  "street_number": null,
+  "route": null,
+  "locality": "Ampang Jaya",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Selangor",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Busana@MenaraMARA",
+  "lat": 3.1579342,
+  "lng": 101.6958784,
+  "formatted_address": "Wisma Bumi Raya, 10, Jalan Raja Laut, Chow Kit, 50350 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "10",
+  "route": "Jalan Raja Laut",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Micheal Kors KLCC",
+  "lat": 3.1574481,
+  "lng": 101.712102,
+  "formatted_address": "504, Jalan Ampang, Kuala Lumpur City Centre, 55000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "504",
+  "route": "Jalan Ampang",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "MediFeet KL (Medishoe Treatment)",
+  "lat": 3.158048,
+  "lng": 101.6958717,
+  "formatted_address": "232, Jalan Tuanku Abdul Rahman, Chow Kit, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "232",
+  "route": "Jalan Tuanku Abdul Rahman",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Calibr & Co.",
+  "lat": 3.1574992,
+  "lng": 101.7121721,
+  "formatted_address": "Suria KLCC, 241, Suria KLCC, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": null,
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Federal Territory of Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "WGN SCAN SDN BHD - NEW IT CENTER",
+  "lat": 3.1580453,
+  "lng": 101.6958124,
+  "formatted_address": "221, Jalan Tuanku Abdul Rahman, Chow Kit, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "221",
+  "route": "Jalan Tuanku Abdul Rahman",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Bianco Mimosa",
+  "lat": 3.1579916,
+  "lng": 101.6957812,
+  "formatted_address": "Bianco Mimosa Busana-Kompleks Menara Mara, 50100, 232, Jalan Tuanku Abdul Rahman, Chow Kit, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "232",
+  "route": "Jalan Tuanku Abdul Rahman",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "LZ MOBILE (M) SDN BHD",
+  "lat": 3.158085400000001,
+  "lng": 101.6957291,
+  "formatted_address": "232, Jalan Tuanku Abdul Rahman, Chow Kit, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "232",
+  "route": "Jalan Tuanku Abdul Rahman",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "swat team tactical shop",
+  "lat": 3.1573816,
+  "lng": 101.6952292,
+  "formatted_address": "lot 1.81, first floor, Pertama Complex, Jalan Tuanku Abdul Rahman, Chow Kit, 50100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Tuanku Abdul Rahman",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Federal Territory of Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Kad Kahwin Variasi",
+  "lat": 3.1572,
+  "lng": 101.6951547,
+  "formatted_address": "Jalan Raja Laut, Chow Kit, 50350 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Raja Laut",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "PERTAMA ADVENTURE HIKING AD CAMPING SHOP",
+  "lat": 3.157375800000001,
+  "lng": 101.695166,
+  "formatted_address": "LOT 2.59,2.60, 2nd floor, Pertama Complex, 1222, Jalan Tuanku Abdul Rahman, Chow Kit, 50350 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "1222",
+  "route": "Jalan Tuanku Abdul Rahman",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Bait Alsharq",
+  "lat": 3.1473846,
+  "lng": 101.711932,
+  "formatted_address": "136, Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "136",
+  "route": "Jalan Bukit Bintang",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Innovatige Sdn Bhd",
+  "lat": 3.1588165,
+  "lng": 101.6957899,
+  "formatted_address": "Level 32, Tower, 50200, Maju Junction, 1001, Jalan Sultan Ismail, Chow Kit, 50350 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "1001",
+  "route": "Jalan Sultan Ismail",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Parkson at Pavillion",
+  "lat": 3.14889,
+  "lng": 101.713,
+  "formatted_address": "P6.20.00 &amp; P6.21.00, Levelß Pavallion Kuala Lumpur, Bukit Bintang, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": null,
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Federal Territory of Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Kensapothecary Suria KLCC",
+  "lat": 3.1573376,
+  "lng": 101.7129238,
+  "formatted_address": "Lot.113A, First Floor, Suria KLCC, Persiaran KLCC, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Persiaran KLCC",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Pavilion KL",
+  "lat": 3.1487063,
+  "lng": 101.7131118,
+  "formatted_address": "168, Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "168",
+  "route": "Jalan Bukit Bintang",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "HUNDRED%",
+  "lat": 3.1467469,
+  "lng": 101.711981,
+  "formatted_address": "T9~T11, Lot 10 3rd floor, (Sports Hub), 50, Jalan Sultan Ismail, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "50",
+  "route": "Jalan Sultan Ismail",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall",
+    "shoe_store",
+    "clothing_store",
+    "store"
+  ]
+}
+{
+  "name": "Iron Bunny Tattoo Studio",
+  "lat": 3.144322,
+  "lng": 101.7097178,
+  "formatted_address": "Sungei Wang Plaza, Jalan Sultan Ismail, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Sultan Ismail",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "THREE @ LOT 10 ISETAN",
+  "lat": 3.1463237,
+  "lng": 101.7121158,
+  "formatted_address": "Shopping Centre, 50, Jalan Sultan Ismail, Bukit Bintang, 50250 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "50",
+  "route": "Jalan Sultan Ismail",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Miniso Bukit Bintang",
+  "lat": 3.1443861,
+  "lng": 101.7102007,
+  "formatted_address": "61, Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "61",
+  "route": "Jalan Bukit Bintang",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "My Star Tea City",
+  "lat": 3.143358999999999,
+  "lng": 101.7087475,
+  "formatted_address": "level 1, Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Bukit Bintang",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Lot 10",
+  "lat": 3.146333,
+  "lng": 101.712488,
+  "formatted_address": "Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Bukit Bintang",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall",
+    "restaurant",
+    "food"
+  ]
+}
+{
+  "name": "Refash Sungei Wang Plaza",
+  "lat": 3.1449244,
+  "lng": 101.7113118,
+  "formatted_address": "Jalan Bulan 2, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Bulan 2",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Extreme Leather Co.",
+  "lat": 3.145867,
+  "lng": 101.6952939,
+  "formatted_address": "K-35-37, Central Market, 23, Jalan Hang Kasturi, Kuala Lumpur City Centre, 50050 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+  "street_number": "23",
+  "route": "Jalan Hang Kasturi",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Federal Territory of Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Starhill Gallery Sdn Bhd",
+  "lat": 3.147656,
+  "lng": 101.713724,
+  "formatted_address": "No.5 &amp; 6, Lot 588, Off Jalan Meru, Klang, 41050, Klang, Selangor, Bukit Bintang, 41050 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": null,
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Federal Territory of Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Tokyo Street @ Pavilion",
+  "lat": 3.1486698,
+  "lng": 101.7142015,
+  "formatted_address": "168, Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "168",
+  "route": "Jalan Bukit Bintang",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "NOOR ARFA CENTRAL MARKET",
+  "lat": 3.1452414,
+  "lng": 101.6955753,
+  "formatted_address": "M25A, Mezzanine Floor, Jalan Hang Kasturi, Kuala Lumpur, City Centre, 50050 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": null,
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Samsung Avenue K",
+  "lat": 3.159326,
+  "lng": 101.713385,
+  "formatted_address": "L2-17A , Level 2 , Avenue K , 156 Jalan Ampang , 50450 Kuala Lumpur, Jalan Ampang, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": null,
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall",
+    "store"
+  ]
+}
+{
+  "name": "LEGO Certified Store Pavilion Elite",
+  "lat": 3.1486113,
+  "lng": 101.7145085,
+  "formatted_address": "168, Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "168",
+  "route": "Jalan Bukit Bintang",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Data Recovery Expert",
+  "lat": 3.143811,
+  "lng": 101.7112208,
+  "formatted_address": "Plaza Berjaya, 12, Jalan Imbi, Pudu, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "12",
+  "route": "Jalan Imbi",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Waxxzillian",
+  "lat": 3.1593059,
+  "lng": 101.7137179,
+  "formatted_address": "Waxxzillian, Avenue K, 156, Jalan Ampang, Kampung Baru, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "156",
+  "route": "Jalan Ampang",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall",
+    "hair_care",
+    "beauty_salon",
+    "spa",
+    "lodging",
+    "neighborhood",
+    "political",
+    "health"
+  ]
+}
+{
+  "name": "雅居乐",
+  "lat": 3.1472323,
+  "lng": 101.7148476,
+  "formatted_address": "Jalan Yap Tai Chi, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Yap Tai Chi",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Vapefanz Vape Shop ( Berjaya Times Square )",
+  "lat": 3.142283,
+  "lng": 101.710447,
+  "formatted_address": "Lot. 02-28 (T2-10), 2nd. Floor, IT Centre Berjaya Times Square, No.1, Jalan, Imbi, Kuala Lumpur, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": null,
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall",
+    "store"
+  ]
+}
+{
+  "name": "BARDIA TRAVELS & TOURS برديا للسياحة ماليزيا",
+  "lat": 3.1419208,
+  "lng": 101.7109218,
+  "formatted_address": "Jalan Imbi, Pudu, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Imbi",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Plaza Haji Taib",
+  "lat": 3.1657287,
+  "lng": 101.697563,
+  "formatted_address": "38-40, Lorong Haji Taib 5, Chow Kit, 50350 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "38-40",
+  "route": "Lorong Haji Taib 5",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Faghira Fashion",
+  "lat": 3.138892999999999,
+  "lng": 101.707057,
+  "formatted_address": "1 & 1-A, Jalan Meranti 3, off Jalan Kenanga, 55200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": null,
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Kompleks Kraf Jalan Conlay",
+  "lat": 3.1495827,
+  "lng": 101.7189635,
+  "formatted_address": "Jalan Raja Chulan, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Raja Chulan",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Digital Audio Studio",
+  "lat": 3.138998899999999,
+  "lng": 101.7122546,
+  "formatted_address": "72, Jalan Brunei Utara, Pudu, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Brunei Utara",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Spring Professional Malaysia",
+  "lat": 3.1596913,
+  "lng": 101.718732,
+  "formatted_address": "175, Jalan Ampang, Kuala Lumpur, 55000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "175",
+  "route": "Jalan Ampang",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "News KTV",
+  "lat": 3.1605889,
+  "lng": 101.7183911,
+  "formatted_address": "Jalan Ampang, Hampshire Park, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Ampang",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "BloomingCotton Wholesale",
+  "lat": 3.1368192,
+  "lng": 101.7080023,
+  "formatted_address": "Lot 3A-13A,(Floor 4 ) Bangunan Kenanga Wholesales City, Lorong Gelugor, Pudu, 55200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Lorong Gelugor",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Ampang Park",
+  "lat": 3.160557,
+  "lng": 101.7186329,
+  "formatted_address": "Jalan Ampang, Hampshire Park, 50450 Kuala Lumpur, Selangor, Malaysia",
+  "street_number": null,
+  "route": "Jalan Ampang",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Selangor",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Styloreng Shoppe",
+  "lat": 3.136162,
+  "lng": 101.708054,
+  "formatted_address": "L5, 5-87 , Kenanga Wholesale City , 2 , Jalan Gelugor , 55200 Kuala Lumpur , Wilayah Persekutuan, Pudu, 55200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": null,
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Federal Territory of Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Sunway Putra Mall",
+  "lat": 3.1663873,
+  "lng": 101.6925705,
+  "formatted_address": "100, Jalan Putra, Chow Kit, 50350 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "100",
+  "route": "Jalan Putra",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall",
+    "lodging"
+  ]
+}
+{
+  "name": "M•A•C Cosmetics, Sunway Putra Mall",
+  "lat": 3.166246799999999,
+  "lng": 101.6923876,
+  "formatted_address": "Sunway Vivaldi, Jalan 19/70a, Medan Putra Bussiness Centre, 60000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan 19/70a",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "The Parenthood",
+  "lat": 3.166545,
+  "lng": 101.69261,
+  "formatted_address": "Jalan Tunku Putra, Sunway Palazzio, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Tunku Putra",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "The Store Corporation Bhd.",
+  "lat": 3.1373765,
+  "lng": 101.7133937,
+  "formatted_address": "Pudu Plaza, Upper Ground & 1st Floor, Jalan Kijang, Wilayah Persekutuan, Pudu, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": null,
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Federal Territory of Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Kst solutions sdn bhd",
+  "lat": 3.1695949,
+  "lng": 101.6942988,
+  "formatted_address": "Jalan 3/64a, Chow Kit, 50350 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan 3/64a",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "UMAGAZA",
+  "lat": 3.171637999999999,
+  "lng": 101.697183,
+  "formatted_address": "32, Jalan Cemur, KUALA LUMPUR, 50400 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "32",
+  "route": "Jalan Cemur",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Sonali Products (M) Sdn Bhd",
+  "lat": 3.1346217,
+  "lng": 101.6938947,
+  "formatted_address": "No67, Lorong Scott, Brickfields, 50470 Kuala Lumpur, Brickfields, 50470 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": null,
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Market Hall Pudu",
+  "lat": 3.1341872,
+  "lng": 101.7144352,
+  "formatted_address": "1, Jalan Pasar Baharu, Pudu, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "1",
+  "route": "Jalan Pasar Baharu",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "LOKA Malaysia",
+  "lat": 3.1336197,
+  "lng": 101.6877731,
+  "formatted_address": "Unit 1.13A, Level 1, Nu Sentral Mall,, Jalan Tun Sambanthan, Brickfields, 50470 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": null,
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "department_store",
+    "shopping_mall",
+    "clothing_store",
+    "furniture_store",
+    "home_goods_store",
+    "store"
+  ]
+}
+{
+  "name": "A Klasse HQ",
+  "lat": 3.1609778,
+  "lng": 101.7283852,
+  "formatted_address": "Level 8, South Block, AmpWalk Mall,, Kampung Datuk Keramat, 55000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": null,
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Federal Territory of Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Cufica NU Sentral Mall",
+  "lat": 3.1333814,
+  "lng": 101.686846,
+  "formatted_address": "L-1, 13A, Jalan Stesen Sentral 5, Kuala Lumpur Sentral, 50470 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "13A",
+  "route": "Jalan Stesen Sentral 5",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Metromall",
+  "lat": 3.128967099999999,
+  "lng": 101.7141087,
+  "formatted_address": "46,, 42, Jalan Metro Pudu 2, Fraser Business Park, 55200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "42",
+  "route": "Jalan Metro Pudu 2",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "HYLA Premium Store",
+  "lat": 3.1346778,
+  "lng": 101.7225586,
+  "formatted_address": "MyTOWN Shopping Centre, Level 2, Lot 039 & 040,, No 6 Jalan Cochrane, Seksyen 90, Kuala Lumpur, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": null,
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Federal Territory of Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall",
+    "home_goods_store",
+    "store"
+  ]
+}
+{
+  "name": "Extreme Leather Co.",
+  "lat": 3.1342717,
+  "lng": 101.7230123,
+  "formatted_address": "L3-053, MyTOWN Shopping Centre, Jalan Cochrane, Maluri, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Cochrane",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Federal Territory of Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "MyTown Shopping Centre",
+  "lat": 3.134096,
+  "lng": 101.722855,
+  "formatted_address": "Seksyen, 90, Jalan Cochrane, Cheras, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+  "street_number": "90",
+  "route": "Jalan Cochrane",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Federal Territory of Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Menara Allianz",
+  "lat": 3.132416,
+  "lng": 101.68658,
+  "formatted_address": "203, Jalan Tun Sambanthan, Brickfields, 50470 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "203",
+  "route": "Jalan Tun Sambanthan",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Southgate Commercial Center",
+  "lat": 3.125225,
+  "lng": 101.7103349,
+  "formatted_address": "Jalan Dua, Chan Sow Lin, 55200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Dua",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall",
+    "premise"
+  ]
+}
+{
+  "name": "AntZ Commerce Sdn Bhd",
+  "lat": 3.124284899999999,
+  "lng": 101.7109992,
+  "formatted_address": "Jalan Dua, Chan Sow Lin, 55200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Dua",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "iRewards Berhad",
+  "lat": 3.1241724,
+  "lng": 101.7111334,
+  "formatted_address": "Jalan Dua, Chan Sow Lin, 55200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Dua",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "UM STORES SDN BHD",
+  "lat": 3.1288883,
+  "lng": 101.6838587,
+  "formatted_address": "235, Jalan Tun Sambanthan, Brickfields, 50470 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "235",
+  "route": "Jalan Tun Sambanthan",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Sunway Velocity Sales Gallery",
+  "lat": 3.1286169,
+  "lng": 101.724357,
+  "formatted_address": "Jalan Peel, Maluri, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Peel",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Chen Hing Hardware Co Sdn Bhd",
+  "lat": 3.126948,
+  "lng": 101.723606,
+  "formatted_address": "No. 94, Batu 3, Jalan Cheras, 56100, Kuala Lumpur, WP Kuala Lumpur, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": null,
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Federal Territory of Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "G Village Desa Pandan",
+  "lat": 3.1496303,
+  "lng": 101.7362863,
+  "formatted_address": "No. 35 Malaysia, Jalan 1/76, Desa Pandan, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan 1/76",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Parkson Sunway Velocity",
+  "lat": 3.1268881,
+  "lng": 101.724112,
+  "formatted_address": "391, Jalan Cheras, Maluri, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "391",
+  "route": "Jalan Cheras",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Sunway Velocity Mall",
+  "lat": 3.1267927,
+  "lng": 101.7250182,
+  "formatted_address": "Lingkaran SV, Sunway Velocity, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Lingkaran SV",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Vaper Zoo",
+  "lat": 3.1475121,
+  "lng": 101.7369428,
+  "formatted_address": "5, Jalan 3/76d, Desa Pandan, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "5",
+  "route": "Jalan 3/76d",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Billiard Home Sports Trading",
+  "lat": 3.1232765,
+  "lng": 101.7195126,
+  "formatted_address": "Lot 3-52, 3rd Floor, Viva Home, 85, Jalan Loke Yew, 55200 Kuala Lumpur, Wilayah Persekutuan., Jalan 5/93, Taman Miharja, 55200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan 5/93",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall",
+    "store"
+  ]
+}
+{
+  "name": "Homes VIVA",
+  "lat": 3.123119,
+  "lng": 101.719234,
+  "formatted_address": "Taman Miharja, 55200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": null,
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Federal Territory of Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "AEON Taman Maluri Shopping Centre",
+  "lat": 3.1264181,
+  "lng": 101.7281319,
+  "formatted_address": "Jalan Jejaka, Taman Maluri Cheras, Maluri, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": null,
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Federal Territory of Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Datum Jelatek Elite Showroom",
+  "lat": 3.1680146,
+  "lng": 101.7367287,
+  "formatted_address": "15, Jalan Enggang, Taman Keramat, 54200 Kuala Lumpur, Selangor, Malaysia",
+  "street_number": "15",
+  "route": "Jalan Enggang",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Selangor",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Bangsar Shopping Centre",
+  "lat": 3.143335,
+  "lng": 101.6670031,
+  "formatted_address": "Jalan Maarof, Taman Sa, 59000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Maarof",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Mimpikita",
+  "lat": 3.1320767,
+  "lng": 101.6715579,
+  "formatted_address": "15, Jalan Telawi 2, Bangsar Baru, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "15",
+  "route": "Jalan Telawi 2",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall",
+    "clothing_store",
+    "store"
+  ]
+}
+{
+  "name": "Gnc Live Well @ Bangsar Village Shopping Centre",
+  "lat": 3.129752,
+  "lng": 101.670841,
+  "formatted_address": "G-20, Bangsar Village Shopping Centre, Jalan Telawi, 59100, Kuala Lumpur, Wilayah Persekutuan, Bangsar Baru, 59100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": null,
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Federal Territory of Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Luxury Vintage Designer Treasure Sdn Bhd",
+  "lat": 3.131097899999999,
+  "lng": 101.6713371,
+  "formatted_address": "F2-13, Bangsar Village 2, Jalan Telawi 1, Bangsar Baru, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Telawi 1",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall",
+    "store"
+  ]
+}
+{
+  "name": "Mutiara Complex",
+  "lat": 3.1890182,
+  "lng": 101.6805619,
+  "formatted_address": "Kompleks Mutiara, 568, Jalan Ipoh, Batu Complex Bussiness Centre, 51200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "568",
+  "route": "Jalan Ipoh",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Sri Changgong Sdn Bhd (Lot 3282)",
+  "lat": 3.1931329,
+  "lng": 101.7097099,
+  "formatted_address": "Lot.3282, Jalan Genting Kelang, Taman P Ramlee, 53300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Genting Kelang",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Lzaq's Collection",
+  "lat": 3.135381999999999,
+  "lng": 101.7405546,
+  "formatted_address": "Pandan Jaya, Ampang Jaya, 55100 Ampang, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": null,
+  "locality": "Ampang",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Imbi Plaza",
+  "lat": 3.143811,
+  "lng": 101.7112208,
+  "formatted_address": "Jalan Imbi, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Imbi",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall",
+    "premise"
+  ]
+}
+{
+  "name": "Skyway Marketing SDN BHD",
+  "lat": 3.170997,
+  "lng": 101.66651,
+  "formatted_address": "1, Jalan Dutamas 1, Solaris Dutamas, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "1",
+  "route": "Jalan Dutamas 1",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Activas Advance Training Solution",
+  "lat": 3.120261299999999,
+  "lng": 101.6775042,
+  "formatted_address": "88, Lingkaran Syed Putra, Mid Valley City, 59200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "88",
+  "route": "Lingkaran Syed Putra",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "ionSoft. Sdn Bhd.",
+  "lat": 3.171317,
+  "lng": 101.6656718,
+  "formatted_address": "B2-2-2, Solaris Dutamas (Publika), Jalan Dutamas 1, 50480 Kuala Lumpur, Malaysia., Solaris Dutamas, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": null,
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "ionSoft QuickBooks GST Accounting",
+  "lat": 3.171317,
+  "lng": 101.6656718,
+  "formatted_address": "B2-2-2, Solaris Dutamas (Publika), Jalan Dutamas 1, 50480 Kuala Lumpur, Solaris Dutamas, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": null,
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Plaza Batai",
+  "lat": 3.149455699999999,
+  "lng": 101.6614079,
+  "formatted_address": "6, Jalan Batai, Bukit Damansara, 50490 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "6",
+  "route": "Jalan Batai",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Ugoki International Shopping SDN BDH",
+  "lat": 3.1888521,
+  "lng": 101.6807668,
+  "formatted_address": "Jalan Ipoh, Batu Complex Bussiness Centre, 51200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Ipoh",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Kinki Ryusaki Studio (Tattoo Malaysia)",
+  "lat": 3.171435799999999,
+  "lng": 101.6651699,
+  "formatted_address": "Publika Shopping Gallery C2-3-5, Solaris Dutamas Jalan Dutamas 1, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": null,
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall",
+    "store"
+  ]
+}
+{
+  "name": "Mr Price Trading SDN BHD",
+  "lat": 3.1889914,
+  "lng": 101.6807145,
+  "formatted_address": "Jalan Ipoh, Batu Complex Bussiness Centre, 51200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Ipoh",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "ATM - Maybank Semua House",
+  "lat": 3.154963,
+  "lng": 101.6972438,
+  "formatted_address": "Jalan Bunus 6, City Centre, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Bunus 6",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "bank",
+    "shopping_mall",
+    "finance"
+  ]
+}
+{
+  "name": "Bajwat Trading Sdn Bhd",
+  "lat": 3.189296699999999,
+  "lng": 101.6806622,
+  "formatted_address": "Jalan Ipoh, Batu Complex Bussiness Centre, 51200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Ipoh",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Ovas",
+  "lat": 3.11857,
+  "lng": 101.67602,
+  "formatted_address": "The Gardens, S219, Lingkaran Syed Putra, Mid Valley City, 59200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "S219",
+  "route": "Lingkaran Syed Putra",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "UFL Outlet Aeon Midvalley",
+  "lat": 3.117196,
+  "lng": 101.678054,
+  "formatted_address": "Mid Valley City, 58000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": null,
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "The Gardens Mall",
+  "lat": 3.118682,
+  "lng": 101.676077,
+  "formatted_address": "Lingkaran Syed Putra, Mid Valley City, 59200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Lingkaran Syed Putra",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "The Weld Shopping Center",
+  "lat": 3.151039999999999,
+  "lng": 101.7068332,
+  "formatted_address": "Jalan Raja Chulan, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Raja Chulan",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "C&E Celeste & Edric Shoes- Wisma MPL",
+  "lat": 3.1503058,
+  "lng": 101.7072576,
+  "formatted_address": "G37, Wisma Mpl, 348, Jalan Raja Chulan, Bukit Bintang, 50200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "348",
+  "route": "Jalan Raja Chulan",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Marist centre",
+  "lat": 3.1492757,
+  "lng": 101.7008864,
+  "formatted_address": "Kuala Lumpur, 50250 Petaling Jaya, Selangor, Malaysia",
+  "street_number": null,
+  "route": null,
+  "locality": "Petaling Jaya",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Selangor",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "LuLu Hypermarket Cap Square Kuala Lumpur",
+  "lat": 3.1545852,
+  "lng": 101.6993394,
+  "formatted_address": "Jalan Munshi Abdullah, Kuala Lumpur, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Munshi Abdullah",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "LA REINA",
+  "lat": 3.1539023,
+  "lng": 101.6990822,
+  "formatted_address": "Jalan Munshi Abdullah, City Centre, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Munshi Abdullah",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Pemborong tudung jln tar kl-fazlida secret sdn bhd",
+  "lat": 3.1558153,
+  "lng": 101.6990024,
+  "formatted_address": "lot 234-236, Wilayah Complex, 46, Jalan Dang Wangi, City Centre, 50250 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "46",
+  "route": "Jalan Dang Wangi",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "BABU ELECTRONICS",
+  "lat": 3.1516184,
+  "lng": 101.6980925,
+  "formatted_address": "LOT 55 B, Jalan Ampang, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Ampang",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "V.K.Golf Super Store",
+  "lat": 3.155197099999999,
+  "lng": 101.6978165,
+  "formatted_address": "lot 1-5, Jalan Munshi Abdullah, City Centre, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Munshi Abdullah",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Pasaraya Qimily",
+  "lat": 3.146803100000001,
+  "lng": 101.7013356,
+  "formatted_address": "-99,, 89, Jalan Pudu Lama, Bukit Bintang, 50200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "89",
+  "route": "Jalan Pudu Lama",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "unique gold palace sdn bhd",
+  "lat": 3.1539391,
+  "lng": 101.6972288,
+  "formatted_address": "Lorong Bunus 4, City Centre, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Lorong Bunus 4",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Ceria Eye Wear",
+  "lat": 3.1524734,
+  "lng": 101.697026,
+  "formatted_address": "Palace Hotel Plaza, 46, Jalan Masjid India, City Centre, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "46",
+  "route": "Jalan Masjid India",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Pasar Malam Kuala Lumpur",
+  "lat": 3.1536043,
+  "lng": 101.6969546,
+  "formatted_address": "7, Lorong Tuanku Abdul Rahman, City Centre, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "7",
+  "route": "Lorong Tuanku Abdul Rahman",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Munshi Abdullah Bazaar",
+  "lat": 3.15591,
+  "lng": 101.69743,
+  "formatted_address": "Jalan Dang Wangi, City Centre, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Dang Wangi",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "SK-2 Textile (Kerinchi Sinar Bahagia SDN.BHD)",
+  "lat": 3.1521688,
+  "lng": 101.6966119,
+  "formatted_address": "No.2014, Ground Floor, Malayan Mansion,, Lorong Masjid India 4, City Centre, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Lorong Masjid India 4",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Vape Empire Quill City Mall",
+  "lat": 3.15984,
+  "lng": 101.7008237,
+  "formatted_address": "Jalan Sultan Ismail, Bandar Wawasan, 50300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Sultan Ismail",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Travis Hegel Kuala Lumpur",
+  "lat": 3.159937,
+  "lng": 101.700317,
+  "formatted_address": "Quill City Mall 4-33 4th Floor, 1018, Jalan Sultan Ismail, Bandar Wawasan, 50250 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "1018",
+  "route": "Jalan Sultan Ismail",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "ZACXZAINI",
+  "lat": 3.1510969,
+  "lng": 101.6961529,
+  "formatted_address": "201-203, Jalan Masjid India, City Centre, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "201-203",
+  "route": "Jalan Masjid India",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Quill City Mall",
+  "lat": 3.1596823,
+  "lng": 101.6997187,
+  "formatted_address": "1018, Jalan Sultan Ismail, Bandar Wawasan, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "1018",
+  "route": "Jalan Sultan Ismail",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Mydin Wholesale Emporium Sinar Kota",
+  "lat": 3.146635,
+  "lng": 101.6985629,
+  "formatted_address": "Jalan Silang, City Centre, 50050 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Silang",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "سوق عشوئي اكسسوارات",
+  "lat": 3.1513644,
+  "lng": 101.6957657,
+  "formatted_address": "10, Jalan Melayu, City Centre, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "10",
+  "route": "Jalan Melayu",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "SUPER GADGET STORE",
+  "lat": 3.1464346,
+  "lng": 101.6983593,
+  "formatted_address": "G03, Jalan Tun Tan Siew Sin, Kuala Lumpur City Centre, 50050 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Tun Tan Siew Sin",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Federal Territory of Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Hamalaya",
+  "lat": 3.1574056,
+  "lng": 101.7111636,
+  "formatted_address": "Suria KLCC, 405, Persiaran Petronas, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "405",
+  "route": "Persiaran Petronas",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Smoking Area",
+  "lat": 3.156294,
+  "lng": 101.6958305,
+  "formatted_address": "Sogo, 190, Jalan Tuanku Abdul Rahman, City Centre, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "190",
+  "route": "Jalan Tuanku Abdul Rahman",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "toyota sales",
+  "lat": 3.1455728,
+  "lng": 101.7085239,
+  "formatted_address": "Jalan Alor, Bukit Bintang, 50200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Alor",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Wisma Teo Guan Lee",
+  "lat": 3.1464823,
+  "lng": 101.6978731,
+  "formatted_address": "41, Lebuh Pudu, City Centre, 50050 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "41",
+  "route": "Lebuh Pudu",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Kedai Al-Yamani KL",
+  "lat": 3.1614904,
+  "lng": 101.7058022,
+  "formatted_address": "50300, 29-45, Jalan Hassan Salleh, Kampung Baru, 50300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "29-45",
+  "route": "Jalan Hassan Salleh",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "City Bazaar",
+  "lat": 3.157605,
+  "lng": 101.6963392,
+  "formatted_address": "Jalan Tuanku Abdul Rahman, Chow Kit, 50300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Tuanku Abdul Rahman",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Clinique Counter Sogo",
+  "lat": 3.156113,
+  "lng": 101.695537,
+  "formatted_address": "190, Jalan Tuanku Abdul Rahman, City Centre, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "190",
+  "route": "Jalan Tuanku Abdul Rahman",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Ruvena Villa Apt . Taman Putra Perdana",
+  "lat": 3.1444866,
+  "lng": 101.7067242,
+  "formatted_address": "Jln Pavilion, Bukit Bintang, 50200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Pavilion",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Pavillion KL Bridge Entrance",
+  "lat": 3.1506308,
+  "lng": 101.7125203,
+  "formatted_address": "2, Jalan Kia Peng, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "2",
+  "route": "Jalan Kia Peng",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Brado2 Kaki Shopping",
+  "lat": 3.1562185,
+  "lng": 101.695381,
+  "formatted_address": "Sogo, 190, Jalan Tuanku Abdul Rahman, City Centre, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "190",
+  "route": "Jalan Tuanku Abdul Rahman",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Isetan of Japan Sdn Bhd - KLCC",
+  "lat": 3.1571741,
+  "lng": 101.7121016,
+  "formatted_address": "Suria KLCC, Kuala Lumpur City Centre, Wilayah Persekutuan, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": null,
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Federal Territory of Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Kotaraya Complex",
+  "lat": 3.1456388,
+  "lng": 101.6979836,
+  "formatted_address": "10, Jalan Tun Tan Cheng Lock, City Centre, 50050 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "10",
+  "route": "Jalan Tun Tan Cheng Lock",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Uda Pertama Management Sdn Bhd",
+  "lat": 3.157306,
+  "lng": 101.6955659,
+  "formatted_address": "Jalan Tuanku Abdul Rahman, Chow Kit, 50350 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Tuanku Abdul Rahman",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Lifestyle",
+  "lat": 3.1461654,
+  "lng": 101.7103925,
+  "formatted_address": "94, Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "94",
+  "route": "Jalan Bukit Bintang",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "HUAWEIDA TIMES SQUARE",
+  "lat": 3.145288,
+  "lng": 101.7094,
+  "formatted_address": "Penang, 2, Jalan Imbi, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "2",
+  "route": "Jalan Imbi",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "klcc parking",
+  "lat": 3.157108599999999,
+  "lng": 101.7123538,
+  "formatted_address": "Multilevel Car Park, Persiaran KLCC, Kuala Lumpur City Centre, 50450 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Persiaran KLCC",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Federal Territory of Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Centre Court",
+  "lat": 3.149392199999999,
+  "lng": 101.7126562,
+  "formatted_address": "Pavilion Kuala Lumpur, 168, Jalan Raja Chulan, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "168",
+  "route": "Jalan Raja Chulan",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Omega @ Suria KLCC Mall",
+  "lat": 3.1574992,
+  "lng": 101.7121721,
+  "formatted_address": "Lot No. 241, Level 2, Menara Berkembar Petronas, Duta Suria, 50088 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": null,
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "YUBI SO",
+  "lat": 3.1448648,
+  "lng": 101.7090007,
+  "formatted_address": "55, Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "55",
+  "route": "Jalan Bukit Bintang",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Pasar Mini 99",
+  "lat": 3.145275599999999,
+  "lng": 101.6980566,
+  "formatted_address": "15, Jalan Tun Tan Cheng Lock, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "15",
+  "route": "Jalan Tun Tan Cheng Lock",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "MARA Digital Kuala Lumpur",
+  "lat": 3.1580373,
+  "lng": 101.6956739,
+  "formatted_address": "Tingkat 3, Menara MARA, 50100, Jalan Mara, Chow Kit, 50350 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Mara",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Federal Territory of Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall",
+    "store"
+  ]
+}
+{
+  "name": "Manara Kembar Petronas",
+  "lat": 3.1577405,
+  "lng": 101.712167,
+  "formatted_address": "504, Jalan Ampang, Kuala Lumpur City Centre, 55000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "504",
+  "route": "Jalan Ampang",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "双峰塔",
+  "lat": 3.1577405,
+  "lng": 101.712167,
+  "formatted_address": "504, Jalan Ampang, Kuala Lumpur City Centre, 55000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "504",
+  "route": "Jalan Ampang",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "Pearl Haya Gallery",
+  "lat": 3.158175900000001,
+  "lng": 101.6957577,
+  "formatted_address": "Busana @ Menara Mara 232, Lot 02-05, Jalan Tuanku Abdul Rahman, Wilayah Persekutuan, Chow Kit, 50100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": null,
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Federal Territory of Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "ADVANCE TELESHOP",
+  "lat": 3.1593967,
+  "lng": 101.6966904,
+  "formatted_address": "Lot G79,Ground Floor, Jalan Tuanku Abdul Rahman, Chow Kit, 50100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+  "street_number": null,
+  "route": "Jalan Tuanku Abdul Rahman",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Federal Territory of Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "L'Erbolario @ Isetan KLCC",
+  "lat": 3.1575468,
+  "lng": 101.7122958,
+  "formatted_address": "504, Jalan Ampang, Kuala Lumpur City Centre, Jalan Ampang, Kuala Lumpur City Centre, 55000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "504, Jalan Ampang, Kuala Lumpur City Centre",
+  "route": "Jalan Ampang",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}
+{
+  "name": "双子塔",
+  "lat": 3.1577926,
+  "lng": 101.7121483,
+  "formatted_address": "504, Jalan Ampang, Kuala Lumpur City Centre, 55000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+  "street_number": "504",
+  "route": "Jalan Ampang",
+  "locality": "Kuala Lumpur",
+  "administrative_area_level_2": null,
+  "administrative_area_level_1": "Wilayah Persekutuan Kuala Lumpur",
+  "country": "Malaysia",
+  "types": [
+    "shopping_mall"
+  ]
+}

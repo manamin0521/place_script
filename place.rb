@@ -2,12 +2,7 @@ require 'net/https'
 require 'uri'
 require 'json'
 
-#クエリが上限を超えた時用に複数用意
-# API_KEY = 'AIzaSyDEhtQbIdDR_5KQjMBgIPSoEb2IELXYTG0'
-API_KEY = 'AIzaSyDVUuLJdMwQA_WPJRAJM2ngyKrUK4r_ROw'
-# API_KEY = 'AIzaSyDRK0rZvGzZ2lvu-jW3A3TAExcuEnE5wiU'
-# API_KEY = 'AIzaSyB379FMFKJO5sx58uIVkuAfl6SE9ie08gA'
-
+API_KEY = 'Your API Key'
 
 lat = '3.152917' #中心座標の緯度
 lng = '101.7038288' #中心座標の経度
@@ -15,9 +10,9 @@ rad = '5000' #中心座標の半径(m)
 
 
 #カテゴリー切り替え
-types = 'convenience_store'
+# types = 'convenience_store'
 # types = 'grocery_or_supermarket'
-# types = 'shopping_mall'
+types = 'shopping_mall'
 # types = 'train_station'
 # types = 'light_rail_station'
 # types = 'subway_station'
@@ -90,12 +85,17 @@ results.each do |result|
   a = place_detail['name'].match(/\satm|atm\s/i)
   b = (['grocery_or_supermarket', 'convenience_store'] - place_detail['types']).empty?
   c = place_detail['name'].match(/7-11|7\sEleven|7eleven|7-Eleven/i)
-  d = place_detail['types'] == 'bank'
-  e = place_detail['types'] == 'shopping_mall'
+  d = (types == 'bank')
+  e = (types == 'shopping_mall')
 
+  if types == 'grocery_or_supermarket'
+    if ( b || c )
+      answer = {}
+    end
+  end
 
-  if place['country'] == "Malaysia"
-    unless (a && !d) || b || (c && !e)
+  if (place['country'] == "Malaysia") 
+    unless ( d && a ) || ( e && c ) || answer == {}
       File.open('./place.json', 'a') do |file|
         file.puts JSON.pretty_generate(answer)
       end
